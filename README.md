@@ -1,8 +1,8 @@
-# RadioDJ_Butler_v1.07 Readme
+# RadioDJ_Butler Readme
 
 ## 👋 RadioDJ Database Maintenance Utility
 
-Welcome to **RadioDJ_Butler_v1.07**!
+Welcome to **RadioDJ_Butler**!
 
 This is a helpful tool designed to keep your RadioDJ database running smoothly.
 
